@@ -3,7 +3,7 @@
 This repository contains a react-based starter app for using the [Multimodal Live API](https://ai.google.dev/gemini-api) over a websocket. It provides modules for streaming audio playback, recording user media such as from a microphone, webcam or screen capture as well as a unified log view to aid in development of your application.
 
 We have provided several example applications on other branches of this repository:
-
+s
 - [demos/GenExplainer](https://github.com/google-gemini/multimodal-live-api-web-console/tree/demos/genexplainer)
 - [demos/GenWeather](https://github.com/google-gemini/multimodal-live-api-web-console/tree/demos/genweather)
 
